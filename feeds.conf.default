@@ -5,7 +5,7 @@ src-git telephony https://github.com/openwrt/telephony.git
 #src-git 电话 https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git 小 https://github.com/kenzok8/small
-src-git liuran001_packages https://github.com/liuran001/openwrt-packages
+#src-git liuran001_packages https://github.com/liuran001/openwrt-packages
 #src-git 视频 https://github.com/openwrt/video.git
 #src-git 目标 https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
